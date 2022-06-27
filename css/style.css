@@ -358,9 +358,10 @@
       padding-top: 15%;
     }
 
-    .productos .box-container .box .content  {
+    .productos .box-container{
       height: 400px;
       width: 400px;
+      margin-left: -1%;
     }
     .productos .box-container .box .content img{
       width: 350px;
